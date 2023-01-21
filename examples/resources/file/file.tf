@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     filedemo = {
-      source = "github.com/goneup/filedemo"
+      source = "github.com/goneup/terraform-provider-filedemo"
     }
   }
 }
